@@ -1,2 +1,4 @@
 # WebSraping
-Extraindo dados da web | Input de dados em formulários web
+
+Exemplos de WebScraping para coleta e input de dados na Web.
+
